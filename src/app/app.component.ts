@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 
+
 @Component({ //transforma la clase en un componente
   selector: 'app-root',
   templateUrl: './app.component.html',
